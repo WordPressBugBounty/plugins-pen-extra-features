@@ -2,8 +2,8 @@
 Contributors: htmlpie
 Tags: customize, metadata, postmeta, mataboxes, ux, user experience, menu, shortcut, color scheme, colors, design, font, typography, pen, pen theme, additional, extra, feature, tool, addon, option, feature, woocommerce
 Requires at least: 4.8
-Tested up to: 6.7
-Stable tag: 1.1.6
+Tested up to: 6.8
+Stable tag: 1.1.7
 Requires PHP: 5.6
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -118,6 +118,9 @@ You can help in a number of ways:
 Thank you! :)
 
 == Changelog ==
+
+= 1.1.7 =
+* WP version bump
 
 = 1.1.6 =
 * WP version bump

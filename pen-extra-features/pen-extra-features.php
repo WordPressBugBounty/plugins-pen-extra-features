@@ -3,7 +3,7 @@
  * Plugin Name: Pen
  * Plugin URI:  https://wordpress.org/plugins/pen-extra-features
  * Description: This plugin adds more features to the fantastic Pen theme.
- * Version:     1.1.6
+ * Version:     1.1.7
  * Author:      htmlpie
  * Author URI:  https://www.htmlpie.com/
  * License:     GPL-2.0+
@@ -19,7 +19,7 @@ defined( 'ABSPATH' ) || die();
 
 define( 'PEN_PLUGIN_URL', plugins_url( '', __FILE__ ) );
 define( 'PEN_PLUGIN_DIR', plugin_dir_path( __FILE__ ) );
-define( 'PEN_PLUGIN_VERSION', '1.1.6' );
+define( 'PEN_PLUGIN_VERSION', '1.1.7' );
 define( 'PEN_PLUGIN_SUPPORT_URL', 'https://wordpress.org/support/theme/pen/' );
 
 define( 'PEN_PLUGIN_DOCUMENTATION_URL', 'https://www.htmlpie.com/knowledge-base/documentations/pen-multipurpose-wordpress-theme' );
